@@ -1,6 +1,7 @@
 <Options>
     <Option Name="InstallAllUsers" Value="no" />
     <Option Name="InstallLauncherAllUsers" Value="no" />
+    <Option Name="PrependPath" Value="yes" />
     <Option Name="SimpleInstall" Value="yes" />
     <Option Name="SimpleInstallDescription">Just for me</Option>
 </Options>

@@ -66,7 +66,7 @@ Install-Python "https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64-webin
 Install-Python "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe" $false
 Install-Python "https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe" $false
 Install-Python "https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe" $false
-Install-Python "https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe" $true
-Install-Python "https://www.python.org/ftp/python/3.12.0/python-3.12.0a7-amd64.exe" $false
+Install-Python "https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe" $true
+Install-Python "https://www.python.org/ftp/python/3.12.0/python-3.12.0b2-amd64.exe" $false
 
 Copy-Pyini "py.ini"
